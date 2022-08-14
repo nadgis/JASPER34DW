@@ -7,3 +7,4 @@ print (int(prom))
 
 if (prom > 4500):
     print ("Se ha excedido del gasto promedio para su mascota")
+

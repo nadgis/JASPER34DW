@@ -47,3 +47,4 @@ INSERT INTO `mydb`.`Perro` (`ID_Perro`, `Nombre`, `Fecha_Nac`, `Sexo`, `DNI_Duen
 UPDATE `mydb`.`Duenio`
 SET Direccion = 'Libertad 123'
 WHERE DNI = 11111111
+
